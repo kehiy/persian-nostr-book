@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Vazirmatn:wght@100..900&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Vazirmatn", sans-serif;
+  font-style: normal;
+}
+
+code {
+  font-family: "JetBrains Mono", monospace;
+  font-style: normal;
+}
+

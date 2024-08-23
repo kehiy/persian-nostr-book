@@ -1,0 +1,35 @@
+[book]
+authors = ["کیهان علیزاده"]
+language = "Fa"
+multilingual = false
+src = "src"
+title = "نوستر به پارسی"
+text-direction = "rtl"
+description = "این کتاب مرجعی برای یادگیری مطالعه و اموزش نوستر به زبان پارسی میباشد."
+
+[preprocessor]
+
+[preprocessor.catppuccin]
+assets_version = "2.1.0" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
+
+[output]
+
+[output.html]
+additional-css = ["./theme/catppuccin.css", "./theme/fonts.css", "./theme/catppuccin-admonish.css"]
+git-repository-url = "https://github.com/persianccbook/nips-persian"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/persianccbook/nips-persian/issues"
+default-theme = "mocha"
+
+[output.html.search]
+enable = true            
+limit-results = 30       
+teaser-word-count = 30   
+use-boolean-and = true   
+boost-title = 2          
+boost-hierarchy = 1      
+boost-paragraph = 1
+
+[output.html.print]
+enable = true    
+page-break = true
