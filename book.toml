@@ -16,9 +16,9 @@ assets_version = "2.1.0" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
 
 [output.html]
 additional-css = ["./theme/catppuccin.css", "./theme/fonts.css", "./theme/catppuccin-admonish.css"]
-git-repository-url = "https://github.com/persianccbook/nips-persian"
+git-repository-url = "https://github.com/kehiy/persian-nostr-book"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/persianccbook/nips-persian/issues"
+edit-url-template = "https://github.com/kehiy/persian-nostr-book/issues"
 default-theme = "mocha"
 
 [output.html.search]
