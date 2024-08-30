@@ -32,8 +32,5 @@ https://github.com/nostr-protocol/nips
 
 شما میتوانید با استار کردن این مخزن و مشارکت در روند ترجمه و نوشتن این کتاب یا حمایت مالی از طریق لایتنینگ و کریپتو به روند توسعه این کتاب کمک کنید.
 
-Lightning: `strongwhip32@walletofsatoshi.com`
-
-[Pactus](https://pactus.org): `pc1ztxeqkjtf6urzlcjcej3m4tcj00ns0vqh78vfwq`
-
-[Bitcoin](https://bitocin.org): `bc1qzrvvlet06932m5aka59cycdn024mqz3l35mv0f`
+Lightning: `kehiy@walletofsatoshi.com`
+Bitcoin: `bc1qzrvvlet06932m5aka59cycdn024mqz3l35mv0f`
