@@ -24,9 +24,13 @@ https://github.com/nostr-protocol/nips
 
 اگر شما اقدام به پیاده سازی رله یا کلاینتی کرده اید میتوانید لینک مخزن خود را در این قسمت بیفزایید.
 
+* wss://relay.jellyfish.land
+
 ## رله ها
 
 اگر شما اقدام به اجرا رله ای کرده اید میتوانید در این قسمت ادرس رله خود را بیفزایید.
+
+* https://github.com/dezh-tech/immortal
 
 # حمایت
 
@@ -34,4 +38,4 @@ https://github.com/nostr-protocol/nips
 
 Lightning: `kehiy@walletofsatoshi.com`
 
-Bitcoin: `bc1qzrvvlet06932m5aka59cycdn024mqz3l35mv0f`
+Bitcoin: `bc1qucjhsycfr3lhf7udwj6ffkyu7pee2z4nufu780`
