@@ -18,6 +18,7 @@
   - [NIP شماره شش](./nips/nip-06.rtl.md)
   - [NIP شماره هفت](./nips/nip-07.rtl.md)
   - [NIP شماره هشت](./nips/nip-08.rtl.md)
+  - [NIP شماره نه](./nips/nip-09.rtl.md)
 
 # نوستر برای توسعه دهندگان
 
