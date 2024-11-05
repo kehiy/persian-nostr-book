@@ -24,13 +24,13 @@ https://github.com/nostr-protocol/nips
 
 اگر شما اقدام به پیاده سازی رله یا کلاینتی کرده اید میتوانید لینک مخزن خود را در این قسمت بیفزایید.
 
-* wss://relay.jellyfish.land
+* https://github.com/dezh-tech/immortal
 
 ## رله ها
 
 اگر شما اقدام به اجرا رله ای کرده اید میتوانید در این قسمت ادرس رله خود را بیفزایید.
 
-* https://github.com/dezh-tech/immortal
+* wss://relay.jellyfish.land
 
 # حمایت
 
