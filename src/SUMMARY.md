@@ -26,6 +26,7 @@
 - [مقدمه](./nostr-for-devs/intro.rtl.md)
   - [چگونه یک رله نوستر اجرا کنیم؟](./nostr-for-devs/run-a-relay.rtl.md)
   - [چگونه یک ربات نوستر بسازیم؟](./nostr-for-devs/make-a-bot.rtl.md)
+  - [چگونه یک آدرس نیپ ۵ برای خود بسازیم؟](./nostr-for-devs/using-nip5.rtl.md)
 
  <!--  افزودن ارتباط با امضا کنندگان نوستر -->
  
