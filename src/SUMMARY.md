@@ -2,10 +2,11 @@
 
 - [مقدمه ای بر کتاب پارسی نوستر](./intro.rtl.md)
 
-# نوستر به زبان ساده
+# راهنمایی ها
 
-- [مقدمه](./simple-nostr/intro-to-part-1.rtl.md)
-  - [نوستر چیست؟](./simple-nostr/quick-start-2.rtl.md)
+- [راهنمایی ها](./guides/intro.rtl.md)
+  - [آدرس نیپ ۵ چیست و چگونه یک ادرس نیپ ۵ داشته باشیم؟](./guides/using-nip5.rtl.md)
+  - [WoT چیست؟](./guides/what-is-wot.rtl.md)
 
 # NIP ها به پارسی
 
@@ -21,12 +22,4 @@
   - [NIP شماره نه](./nips/nip-09.rtl.md)
   - [NIP شماره ده](./nips/nip-10.rtl.md)
 
-# نوستر برای توسعه دهندگان
-
-- [مقدمه](./nostr-for-devs/intro.rtl.md)
-  - [چگونه یک رله نوستر اجرا کنیم؟](./nostr-for-devs/run-a-relay.rtl.md)
-  - [چگونه یک ربات نوستر بسازیم؟](./nostr-for-devs/make-a-bot.rtl.md)
-  - [چگونه یک آدرس نیپ ۵ برای خود بسازیم؟](./nostr-for-devs/using-nip5.rtl.md)
-
- <!--  افزودن ارتباط با امضا کنندگان نوستر -->
  
