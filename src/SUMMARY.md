@@ -7,6 +7,7 @@
 - [راهنمایی ها](./guides/intro.rtl.md)
   - [آدرس نیپ ۵ چیست و چگونه یک ادرس نیپ ۵ داشته باشیم؟](./guides/using-nip5.rtl.md)
   - [WoT چیست؟](./guides/what-is-wot.rtl.md)
+  - [Outbox model چیست؟](./guides/what-is-outbox-model.rtl.md)
 
 # NIP ها به پارسی
 

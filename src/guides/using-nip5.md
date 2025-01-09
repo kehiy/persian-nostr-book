@@ -8,8 +8,7 @@
 
 پیش از ایجاد یک آدرس نیپ پنج این حساب تنها با کلید عمومی npub14jng93gugnysgerpmcxtxj7vvvud243vm7gx9thfc0995n9q4v7qw3npu6 قابل یافتن بود. اما اکنون شما با جستجو ادرس نیپ ۵ بالا در کلاینت خود یا مراجعه به لینک پایین میتوانید این حساب را مشاهده کنید.
 
-https://njump.me/example@dezh.tech
-
+* https://njump.me/example@dezh.tech
 
 کلمه پیش از @ نام دلبخواه شما و دامنه بعد از ان نام دامنه شخصی شما یا سرویسی است که شما از ان ادرس خود را دریافت کرده اید.
 
@@ -23,12 +22,17 @@ https://njump.me/example@dezh.tech
 
 فهرست سرویس های موجود:
 
-https://bitcoinnostr.com/
-https://nostrcheck.me/
-https://zaps.lol/
-https://www.nostr-check.com/
-https://nl.nostraddress.com/
-https://cosanostr.com/
+* https://bitcoinnostr.com
+
+* https://nostrcheck.me
+
+* https://zaps.lol
+
+* https://www.nostr-check.com
+
+* https://nl.nostraddress.com
+
+* https://cosanostr.com
 
 در تمامی این سرویس ها شما میتوانید کلید عمومی خود و یک نام دلخواه را وارد کنید و آدرس نیپ ۵ خود را دریافت کنید. 
 
@@ -40,13 +44,19 @@ https://cosanostr.com/
 
 استفاده از سرویس های پولی برای دریافت ادرس نیپ ۵ هم ممکن است:
 
-https://nostrplebs.com/
-https://nl.nostraddress.com/
-https://getalby.com/
-https://nostr.directory/
-https://nostr.com.au/
-https://stacker.news/
-https://nostrich.house/
+* https://nostrplebs.com
+
+* https://nl.nostraddress.com
+
+* https://getalby.com
+
+* https://nostr.directory
+
+* https://nostr.com.au
+
+* https://stacker.news
+
+* https://nostrich.house
 
  نکته: شرایط ویژه ممکن است در سرویس های پولی هم وجود داشته باشد.
 
@@ -110,15 +120,12 @@ github.com/[USER]/[YOUR-REPO]/settings/pages
 
 مخزن خام:
 
-https://github.com/kehiy/kehiy
+* https://github.com/kehiy/kehiy
 
 پروژه react ای:
-https://github.com/dezh-tech/website/blob/main/public/.well-known/nostr.json
 
-پروژه svelte:
-https://github.com/dezh-tech/jellyfish/blob/main/static/.well-known/nostr.json
+* https://github.com/dezh-tech/website/blob/main/public/.well-known/nostr.json
 
-منبع اصلی آموزش: https://nvk.org/n00b-nip5
+منبع اصلی آموزش: 
 
-
-
+* https://nvk.org/n00b-nip5

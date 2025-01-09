@@ -21,5 +21,6 @@
 
 ### منابع
 
-1.https://www.geeksforgeeks.org/what-is-web-of-trust/
-2. https://freakoverse.github.io/wotonnostr/
+1. https://www.geeksforgeeks.org/what-is-web-of-trust
+
+2. https://freakoverse.github.io/wotonnostr
