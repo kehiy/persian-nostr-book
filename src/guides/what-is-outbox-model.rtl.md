@@ -29,7 +29,7 @@
 
 تصویر زیر اوت باکس مدل را به شکلی بهتر و قابل درک نمیاش میدهد:
 
-![اوت باکس مدل در پروتکل نوستر](../images/guides-outbox.png)
+![اوت باکس مدل در پروتکل نوستر](https://github.com/kehiy/persian-nostr-book/blob/main/src/images/guides-outbox.png?raw=true)
 
 ### منابع
 
