@@ -24,6 +24,7 @@
   - [NIP شماره ده](./nips/nip-10.rtl.md)
   - [NIP شماره سیزده](./nips/nip-13.rtl.md)
   - [NIP شماره بیست و یک](./nips/nip-21.rtl.md)
+  - [NIP شماره شصت و هشت](./nips/nip-68.rtl.md)
   - [NIP شماره نود و هشت](./nips/nip-98.rtl.md)
 
  
