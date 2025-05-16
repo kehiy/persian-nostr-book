@@ -44,17 +44,9 @@
 
 استفاده از سرویس های پولی برای دریافت ادرس نیپ ۵ هم ممکن است:
 
-* https://nostrplebs.com
-
-* https://nl.nostraddress.com
+* https://jellyfish.land/nip05
 
 * https://getalby.com
-
-* https://nostr.directory
-
-* https://nostr.com.au
-
-* https://stacker.news
 
 * https://nostrich.house
 
